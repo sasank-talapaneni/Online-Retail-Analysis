@@ -1,0 +1,26 @@
+ProductID,Product,Category,UnitPrice
+1,Smartphone,Electronics,28.97
+2,Laptop,Electronics,88.86
+3,Headphones,Electronics,80.47
+4,Camera,Electronics,83.81
+5,Tablet,Electronics,38.96
+6,T-shirt,Clothing,84.91
+7,Jeans,Clothing,30.28
+8,Dress,Clothing,20.21
+9,Jacket,Clothing,51.68
+10,Sweater,Clothing,71.2
+11,Novel,Books,82.12
+12,Textbook,Books,39.89
+13,Cookbook,Books,73.9
+14,Self-help,Books,65.48
+15,Biography,Books,77.9
+16,Candle,Home,63.92
+17,Blanket,Home,35.23
+18,Mug,Home,19.31
+19,Plant,Home,78.66
+20,Clock,Home,22.5
+21,Football,Sports,63.96
+22,Basketball,Sports,42.12
+23,Yoga mat,Sports,47.94
+24,Dumbbells,Sports,93.73
+25,Skipping rope,Sports,98.57
